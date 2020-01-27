@@ -10,7 +10,7 @@ namespace GITgenomgång
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("HelLoE? YEs ImA?");
 
 
 
